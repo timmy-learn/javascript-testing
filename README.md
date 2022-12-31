@@ -1,1 +1,1 @@
-# javascript-testing
+Welcome to my JavaScript testing repository! Here, you'll find a collection of resources and tools that I've put together to help developers learn about and implement testing practices in their JavaScript projects. Whether you're just getting started with testing or are an experienced developer looking to improve your skills, I hope you'll find something here that is helpful and informative.
